@@ -49,12 +49,6 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrParkerZ7&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🧑‍💻 Repositories
 
 <p align="center"><img height="22" width="25%" src="https://placehold.co/600x22/2D7DD2/2D7DD2.png" alt="AI-Written 22 (25%)" /><img height="22" width="68%" src="https://placehold.co/600x22/2E8B57/2E8B57.png" alt="Manually-Written 61 (68%)" /><img height="22" width="7%" src="https://placehold.co/600x22/8A2BE2/8A2BE2.png" alt="Forks 6 (7%)" /></p>
@@ -193,6 +187,12 @@
 </td>
 </tr>
 </table>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrParkerZ7&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📈 Activity Graph
 
