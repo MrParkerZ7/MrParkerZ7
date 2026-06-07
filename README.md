@@ -51,14 +51,9 @@
 
 ## 🧑‍💻 Repositories
 
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"pie1":"#9ece6a","pie2":"#7aa2f7","pie3":"#bb9af7","pieTitleTextColor":"#c0caf5","pieSectionTextColor":"#1a1b27","pieStrokeColor":"#1a1b27","pieStrokeWidth":"2px","pieOuterStrokeColor":"#1a1b27","pieOuterStrokeWidth":"2px","pieLegendTextColor":"#a9b1d6","pieOpacity":"1","background":"#1a1b27","fontFamily":"Segoe UI, Ubuntu, sans-serif"}}}%%
-pie showData
-    title Repository Authorship — 89 public repos
-    "AI-Written" : 22
-    "Manually-Written" : 61
-    "Forks" : 6
-```
+<p align="center">
+  <img width="540" src="assets/authorship.svg" alt="Repository authorship: 22 AI-Written (25%), 61 Manually-Written (68%), 6 Forks (7%) of 89 public repos" />
+</p>
 
 <p align="center"><sub>Public repos only. AI-written = commits carry a <code>Co-Authored-By: Claude</code> trailer (Claude Code). Forks excluded from authorship counts.</sub></p>
 
