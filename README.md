@@ -59,7 +59,7 @@
 
 <table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 <details>
 <summary><b>🤖 AI-Written (25)</b></summary>
@@ -95,7 +95,7 @@
 </details>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 <details>
 <summary><b>🔀 Forks (6)</b></summary>
@@ -112,7 +112,7 @@
 </details>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 <details>
 <summary><b>✍️ Manually-Written (61)</b></summary>
@@ -180,6 +180,16 @@
 | [sample-node-typescript-write-file](https://github.com/MrParkerZ7/sample-node-typescript-write-file) | TypeScript |
 | [sample-python-robot-framework](https://github.com/MrParkerZ7/sample-python-robot-framework) | RobotFramework |
 | [sharing_source_p_python](https://github.com/MrParkerZ7/sharing_source_p_python) | Python |
+
+</details>
+
+</td>
+<td valign="top" width="25%">
+
+<details>
+<summary><b>🔒 Private (23)</b></summary>
+
+<sub><em>Private repos are counted in the chart but not listed here.</em></sub>
 
 </details>
 
