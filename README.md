@@ -51,12 +51,8 @@
 
 ## 🧑‍💻 Repositories
 
-<p align="center"><img height="22" width="25%" src="https://placehold.co/600x22/2D7DD2/2D7DD2.png" alt="AI-Written 22 (25%)" /><img height="22" width="68%" src="https://placehold.co/600x22/2E8B57/2E8B57.png" alt="Manually-Written 61 (68%)" /><img height="22" width="7%" src="https://placehold.co/600x22/8A2BE2/8A2BE2.png" alt="Forks 6 (7%)" /></p>
-
 <p align="center">
-  <img alt="AI-Written" src="https://img.shields.io/badge/%F0%9F%A4%96%20AI--Written-22%20(25%25)-2D7DD2?style=flat-square" />
-  <img alt="Manually-Written" src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F%20Manually--Written-61%20(68%25)-2E8B57?style=flat-square" />
-  <img alt="Forks" src="https://img.shields.io/badge/%F0%9F%94%80%20Forks-6%20(7%25)-8A2BE2?style=flat-square" />
+  <img alt="Repository authorship breakdown: 22 AI-Written (25%), 61 Manually-Written (68%), 6 Forks (7%) of 89 public repos" src="https://quickchart.io/chart?bkg=transparent&w=520&h=300&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AI-Written%20%2022%20%2825%25%29%22%2C%22Manually-Written%20%2061%20%2868%25%29%22%2C%22Forks%20%206%20%287%25%29%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B22%2C61%2C6%5D%2C%22backgroundColor%22%3A%5B%22%232D7DD2%22%2C%22%232E8B57%22%2C%22%238A2BE2%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22font%22%3A%7B%22size%22%3A15%7D%2C%22color%22%3A%22%238b949e%22%2C%22padding%22%3A14%2C%22boxWidth%22%3A16%7D%7D%2C%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%7D%2C%22doughnutlabel%22%3A%7B%22labels%22%3A%5B%7B%22text%22%3A%2289%22%2C%22font%22%3A%7B%22size%22%3A30%2C%22weight%22%3A%22bold%22%7D%2C%22color%22%3A%22%238b949e%22%7D%2C%7B%22text%22%3A%22public%20repos%22%2C%22font%22%3A%7B%22size%22%3A13%7D%2C%22color%22%3A%22%238b949e%22%7D%5D%7D%7D%7D%7D" />
 </p>
 
 <p align="center"><sub>Public repos only. AI-written = commits carry a <code>Co-Authored-By: Claude</code> trailer (Claude Code). Forks excluded from authorship counts.</sub></p>
