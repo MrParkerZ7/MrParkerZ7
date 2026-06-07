@@ -22,17 +22,14 @@
 
   <rect x="8" y="8" width="644" height="344" rx="22" fill="url(#card)" stroke="#2a2e4a" stroke-width="1.5" filter="url(#cardshadow)"/>
 
-  <!-- donut ring -->
   <g>
-    <path d="M 201.44 84.14 A 104 104 0 0 1 299.75 180.72" fill="none" stroke="url(#g0)" stroke-width="46" stroke-linecap="round" filter="url(#ds)"/><path d="M 299.94 191.61 A 104 104 0 1 1 148.35 95.56" fill="none" stroke="url(#g1)" stroke-width="46" stroke-linecap="round" filter="url(#ds)"/><path d="M 158.27 91.08 A 104 104 0 0 1 190.56 84.14" fill="none" stroke="url(#g2)" stroke-width="46" stroke-linecap="round" filter="url(#ds)"/>
+    <path d="M 199.04 72.04 A 116 116 0 0 1 311.89 182.92" fill="none" stroke="url(#g0)" stroke-width="30" stroke-linecap="round" filter="url(#ds)"/><path d="M 312.00 188.99 A 116 116 0 1 1 145.57 83.54" fill="none" stroke="url(#g1)" stroke-width="30" stroke-linecap="round" filter="url(#ds)"/><path d="M 151.10 81.04 A 116 116 0 0 1 192.96 72.04" fill="none" stroke="url(#g2)" stroke-width="30" stroke-linecap="round" filter="url(#ds)"/>
   </g>
 
-  <!-- center hole + label -->
-  <circle cx="196" cy="188" r="75.0" fill="url(#hole)"/>
+  <circle cx="196" cy="188" r="93.0" fill="url(#hole)"/>
   <text x="196" y="182" font-size="52" font-weight="700" fill="#e6eaff" text-anchor="middle" dominant-baseline="middle">89</text>
   <text x="196" y="218" font-size="15" fill="#7c84a8" text-anchor="middle" letter-spacing="2">PUBLIC REPOS</text>
 
-  <!-- legend -->
   <text x="392" y="78" font-size="22" font-weight="700" fill="#c0caf5">Repository Authorship</text>
   <g transform="translate(392,116)">
     <rect width="18" height="18" rx="6" fill="url(#g0)" filter="url(#dsm)"/>
