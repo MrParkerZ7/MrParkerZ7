@@ -200,8 +200,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrParkerZ7&theme=tokyonight&hide_border=true" />
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrParkerZ7&theme=tokyonight" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=MrParkerZ7&theme=tokyonight&hide_border=true" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrParkerZ7&theme=tokyonight" />
 </p>
 
 ## 📈 Activity Graph
