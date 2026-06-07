@@ -210,6 +210,49 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrParkerZ7&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 📦 Apps You Can Use
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+### 🌐 cycle-request
+
+**Git-friendly desktop API client — a Postman alternative where your collections are plain JSON files on disk.**
+
+<p>
+  <a href="https://github.com/MrParkerZ7/installer-cycle-request/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/MrParkerZ7/installer-cycle-request?style=flat-square&label=release&color=2E8B57" /></a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-2D7DD2?style=flat-square" />
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/MrParkerZ7/installer-cycle-request/total?style=flat-square&label=downloads&color=8A2BE2" />
+  <img alt="Platforms" src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-565f89?style=flat-square" />
+</p>
+
+Postman-compatible format, environments & `{{variables}}`, pre-request / test scripts (`pm.*`), a collection runner with PDF reports, and 17 themes. No cloud, no lock-in — commit a collection to share it.
+
+⬇️ **[Download](https://github.com/MrParkerZ7/installer-cycle-request/releases/latest)** &nbsp;·&nbsp; 📂 [Source](https://github.com/MrParkerZ7/project-cycle-request)
+
+</td>
+<td valign="top" width="50%">
+
+### 🖱️ AutoKeyClick
+
+**Windows automation for mouse & keyboard — auto-click, auto-type, record & replay, with global hotkeys.**
+
+<p>
+  <a href="https://github.com/MrParkerZ7/installer-auto-click-key/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/MrParkerZ7/installer-auto-click-key?style=flat-square&label=release&color=2E8B57" /></a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-2D7DD2?style=flat-square" />
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/MrParkerZ7/installer-auto-click-key/total?style=flat-square&label=downloads&color=8A2BE2" />
+  <img alt="Platform" src="https://img.shields.io/badge/Windows%20x64-565f89?style=flat-square" />
+</p>
+
+Built with C# / WPF on .NET 8. Auto clicker (interval, fixed position, repeat / loop), auto keyboard, record & playback with timing, named profiles, and global start / stop hotkeys (`F6` / `F8`). Installer + portable builds, self-contained.
+
+⬇️ **[Download](https://github.com/MrParkerZ7/installer-auto-click-key/releases/latest)** &nbsp;·&nbsp; 📂 [Source](https://github.com/MrParkerZ7/project-auto-key-click)
+
+</td>
+</tr>
+</table>
+
 ---
 
 <p align="center">
