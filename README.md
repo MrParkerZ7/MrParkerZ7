@@ -52,42 +52,45 @@
 ## 🧑‍💻 Repositories
 
 <p align="center">
-  <img width="540" src="assets/authorship.svg" alt="Repository authorship: 22 AI-Written (25%), 61 Manually-Written (68%), 6 Forks (7%) of 89 public repos" />
+  <img width="540" src="assets/authorship.svg" alt="Repository authorship across 115 repos: 25 AI-Written (22%), 61 Manually-Written (53%), 6 Forks (5%), 23 Private (20%)" />
 </p>
 
-<p align="center"><sub>Public repos only. AI-written = commits carry a <code>Co-Authored-By: Claude</code> trailer (Claude Code). Forks excluded from authorship counts.</sub></p>
+<p align="center"><sub>AI-written = commits carry a <code>Co-Authored-By: Claude</code> trailer (Claude Code). Forks excluded from authorship counts. Private repos are counted in the chart but not listed.</sub></p>
 
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
 
 <details>
-<summary><b>🤖 AI-Written (22)</b></summary>
+<summary><b>🤖 AI-Written (25)</b></summary>
 
 | Repo | Lang |
 |------|------|
-| [project-cycle-request](https://github.com/MrParkerZ7/project-cycle-request) | TypeScript |
-| [poc-multi-language-lightweight-packaging](https://github.com/MrParkerZ7/poc-multi-language-lightweight-packaging) | PowerShell |
 | [app-windows-file-manager](https://github.com/MrParkerZ7/app-windows-file-manager) | C# |
-| [app-windows-auto-key-click](https://github.com/MrParkerZ7/app-windows-auto-key-click) | C# |
-| [document-microsoft-store-workflow](https://github.com/MrParkerZ7/document-microsoft-store-workflow) | — |
-| [research-local-generative-ai](https://github.com/MrParkerZ7/research-local-generative-ai) | — |
+| [claude-prompt-command-shared-v2](https://github.com/MrParkerZ7/claude-prompt-command-shared-v2) | — |
 | [claude-prompt-diagram-poc](https://github.com/MrParkerZ7/claude-prompt-diagram-poc) | — |
-| [sample-anthropic-ai-claude-code-x-claude](https://github.com/MrParkerZ7/sample-anthropic-ai-claude-code-x-claude) | TypeScript |
-| [sample-anthropic-ai-sdk-x-claude](https://github.com/MrParkerZ7/sample-anthropic-ai-sdk-x-claude) | TypeScript |
-| [sample-banking-jenkins-pipeline-scaner-x-claude](https://github.com/MrParkerZ7/sample-banking-jenkins-pipeline-scaner-x-claude) | TypeScript |
-| [sample-modular-mono-repository-lerna-node-ts-x-claude](https://github.com/MrParkerZ7/sample-modular-mono-repository-lerna-node-ts-x-claude) | TypeScript |
-| [sample-modular-mono-repository-maven-java-x-claude](https://github.com/MrParkerZ7/sample-modular-mono-repository-maven-java-x-claude) | Java |
-| [mono-sample-hybrid-platform-comparison-flutter-vs-react-native-x-claude](https://github.com/MrParkerZ7/mono-sample-hybrid-platform-comparison-flutter-vs-react-native-x-claude) | Dart |
+| [document-lesson-ad-b2c](https://github.com/MrParkerZ7/document-lesson-ad-b2c) | — |
+| [document-lesson-ad-entra](https://github.com/MrParkerZ7/document-lesson-ad-entra) | — |
+| [document-lesson-certified-cloud-practitioner](https://github.com/MrParkerZ7/document-lesson-certified-cloud-practitioner) | — |
+| [document-lesson-core-banking-business-system-technology](https://github.com/MrParkerZ7/document-lesson-core-banking-business-system-technology) | — |
+| [document-lesson-insurance-business-technology](https://github.com/MrParkerZ7/document-lesson-insurance-business-technology) | — |
+| [document-lesson-research-aws-api-gateway](https://github.com/MrParkerZ7/document-lesson-research-aws-api-gateway) | HCL |
+| [document-lesson-software-architect](https://github.com/MrParkerZ7/document-lesson-software-architect) | — |
+| [document-microsoft-store-workflow](https://github.com/MrParkerZ7/document-microsoft-store-workflow) | — |
+| [installer-auto-click-key](https://github.com/MrParkerZ7/installer-auto-click-key) | — |
+| [installer-cycle-request](https://github.com/MrParkerZ7/installer-cycle-request) | — |
+| [mono-sample-hybrid-platform-comparison-flutter-vs-react-native](https://github.com/MrParkerZ7/mono-sample-hybrid-platform-comparison-flutter-vs-react-native) | Dart |
+| [MrParkerZ7](https://github.com/MrParkerZ7/MrParkerZ7) | — |
 | [poc-claude-case-study-insurance](https://github.com/MrParkerZ7/poc-claude-case-study-insurance) | Go |
-| [document-lesson-research-aws-api-gateway-x-claude](https://github.com/MrParkerZ7/document-lesson-research-aws-api-gateway-x-claude) | HCL |
-| [document-lesson-software-architect-x-claude](https://github.com/MrParkerZ7/document-lesson-software-architect-x-claude) | — |
-| [document-lesson-core-banking-business-system-technology-x-claude](https://github.com/MrParkerZ7/document-lesson-core-banking-business-system-technology-x-claude) | — |
-| [document-lesson-insurance-business-technology-x-claude](https://github.com/MrParkerZ7/document-lesson-insurance-business-technology-x-claude) | — |
-| [document-lesson-ad-b2c-x-claude](https://github.com/MrParkerZ7/document-lesson-ad-b2c-x-claude) | — |
-| [document-lesson-ad-entra-x-claude](https://github.com/MrParkerZ7/document-lesson-ad-entra-x-claude) | — |
-| [document-lesson-certified-cloud-practitioner-x-claude](https://github.com/MrParkerZ7/document-lesson-certified-cloud-practitioner-x-claude) | — |
-| [document-lesson-programming-languages-2026-x-claude](https://github.com/MrParkerZ7/document-lesson-programming-languages-2026-x-claude) | — |
+| [poc-multi-language-lightweight-packaging](https://github.com/MrParkerZ7/poc-multi-language-lightweight-packaging) | PowerShell |
+| [project-unlock-pdf](https://github.com/MrParkerZ7/project-unlock-pdf) | Rust |
+| [research-local-generative-ai](https://github.com/MrParkerZ7/research-local-generative-ai) | — |
+| [research-trading-architect](https://github.com/MrParkerZ7/research-trading-architect) | — |
+| [sample-anthropic-ai-claude-code](https://github.com/MrParkerZ7/sample-anthropic-ai-claude-code) | TypeScript |
+| [sample-anthropic-ai-sdk](https://github.com/MrParkerZ7/sample-anthropic-ai-sdk) | TypeScript |
+| [sample-banking-jenkins-pipeline-scaner](https://github.com/MrParkerZ7/sample-banking-jenkins-pipeline-scaner) | TypeScript |
+| [sample-modular-mono-repository-lerna-node-ts](https://github.com/MrParkerZ7/sample-modular-mono-repository-lerna-node-ts) | TypeScript |
+| [sample-modular-mono-repository-maven-java](https://github.com/MrParkerZ7/sample-modular-mono-repository-maven-java) | Java |
 
 </details>
 
@@ -99,12 +102,12 @@
 
 | Repo | Lang |
 |------|------|
+| [fork-demo-java-spring-cloud-function-webflux](https://github.com/MrParkerZ7/fork-demo-java-spring-cloud-function-webflux) | Java |
 | [fork-google-skills](https://github.com/MrParkerZ7/fork-google-skills) | — |
-| [fork-node-typescript-strapi](https://github.com/MrParkerZ7/fork-node-typescript-strapi) | — |
 | [fork-lesson-aws-terraform-lambda-python](https://github.com/MrParkerZ7/fork-lesson-aws-terraform-lambda-python) | HCL |
+| [fork-node-typescript-strapi](https://github.com/MrParkerZ7/fork-node-typescript-strapi) | TypeScript |
 | [fork-sample-kotlin-spring-gradle-dsl-mono-repository-spring-boot](https://github.com/MrParkerZ7/fork-sample-kotlin-spring-gradle-dsl-mono-repository-spring-boot) | Kotlin |
 | [fork_python_scrapy_selenium](https://github.com/MrParkerZ7/fork_python_scrapy_selenium) | Python |
-| [fork-demo-java-spring-cloud-function-webflux](https://github.com/MrParkerZ7/fork-demo-java-spring-cloud-function-webflux) | — |
 
 </details>
 
@@ -116,67 +119,67 @@
 
 | Repo | Lang |
 |------|------|
+| [demo-aws-lambda-function-kotlin-spring-cloud-mvn](https://github.com/MrParkerZ7/demo-aws-lambda-function-kotlin-spring-cloud-mvn) | Kotlin |
+| [demo-aws-sam-node-javascript-app](https://github.com/MrParkerZ7/demo-aws-sam-node-javascript-app) | JavaScript |
+| [demo-docker-nginx](https://github.com/MrParkerZ7/demo-docker-nginx) | HTML |
+| [demo-kotlin-spring-with-unit-test](https://github.com/MrParkerZ7/demo-kotlin-spring-with-unit-test) | Kotlin |
+| [demo-node-javascript-nested-promis](https://github.com/MrParkerZ7/demo-node-javascript-nested-promis) | JavaScript |
+| [demo_dart_flutter_app_begin_again](https://github.com/MrParkerZ7/demo_dart_flutter_app_begin_again) | Dart |
+| [documentation](https://github.com/MrParkerZ7/documentation) | — |
+| [exprirenment-compile-node-javascript-docker-images](https://github.com/MrParkerZ7/exprirenment-compile-node-javascript-docker-images) | JavaScript |
+| [lesson-aws-terraform](https://github.com/MrParkerZ7/lesson-aws-terraform) | HCL |
+| [lesson-first-java](https://github.com/MrParkerZ7/lesson-first-java) | Java |
+| [lesson-github-action](https://github.com/MrParkerZ7/lesson-github-action) | JavaScript |
+| [lesson-github-action-course-github-actions-the-complete-guide](https://github.com/MrParkerZ7/lesson-github-action-course-github-actions-the-complete-guide) | TypeScript |
+| [lesson-java-21stepbase](https://github.com/MrParkerZ7/lesson-java-21stepbase) | Java |
+| [lesson-java-spring-mongodb-2step](https://github.com/MrParkerZ7/lesson-java-spring-mongodb-2step) | Java |
+| [lesson-java-spring-reactive-mongodb-2step](https://github.com/MrParkerZ7/lesson-java-spring-reactive-mongodb-2step) | Java |
+| [lesson-kotlin-2step](https://github.com/MrParkerZ7/lesson-kotlin-2step) | Java |
+| [lesson-mono-repository-javascript-lerna](https://github.com/MrParkerZ7/lesson-mono-repository-javascript-lerna) | JavaScript |
+| [lesson-next-typescript](https://github.com/MrParkerZ7/lesson-next-typescript) | CSS |
+| [lesson-node-typescript](https://github.com/MrParkerZ7/lesson-node-typescript) | TypeScript |
+| [lesson-sass-html](https://github.com/MrParkerZ7/lesson-sass-html) | HTML |
+| [lesson_python_scrapy](https://github.com/MrParkerZ7/lesson_python_scrapy) | Python |
+| [mono-lesson-dot-net-framework-first-start](https://github.com/MrParkerZ7/mono-lesson-dot-net-framework-first-start) | C# |
+| [mono-lesson-review-spring-java-17-21](https://github.com/MrParkerZ7/mono-lesson-review-spring-java-17-21) | Java |
+| [mono-lessons-dart-first-start](https://github.com/MrParkerZ7/mono-lessons-dart-first-start) | Dart |
+| [mono-lessons-dart-flutter-get-started](https://github.com/MrParkerZ7/mono-lessons-dart-flutter-get-started) | Dart |
+| [mono-lessons-dart-flutter-second-lesson](https://github.com/MrParkerZ7/mono-lessons-dart-flutter-second-lesson) | Dart |
+| [mono-lessons-gec-mission-node-javascript-and-java-spring](https://github.com/MrParkerZ7/mono-lessons-gec-mission-node-javascript-and-java-spring) | HTML |
+| [mono-lessons-go](https://github.com/MrParkerZ7/mono-lessons-go) | Go |
+| [mono-lessons-java-spring-application-testing-master](https://github.com/MrParkerZ7/mono-lessons-java-spring-application-testing-master) | HTML |
+| [mono-lessons-java-spring-backend-service-full-system](https://github.com/MrParkerZ7/mono-lessons-java-spring-backend-service-full-system) | Shell |
+| [mono-lessons-java-spring-cloud-eureka](https://github.com/MrParkerZ7/mono-lessons-java-spring-cloud-eureka) | Shell |
+| [mono-lessons-java-spring-mongo-master](https://github.com/MrParkerZ7/mono-lessons-java-spring-mongo-master) | Java |
+| [mono-lessons-java-spring-security](https://github.com/MrParkerZ7/mono-lessons-java-spring-security) | Java |
+| [mono-lessons-kotlin-spring-eureka-master](https://github.com/MrParkerZ7/mono-lessons-kotlin-spring-eureka-master) | Shell |
+| [mono-lessons-kotlin-spring-mongo-master](https://github.com/MrParkerZ7/mono-lessons-kotlin-spring-mongo-master) | Shell |
+| [mono-lessons-kotlin-spring-security-master](https://github.com/MrParkerZ7/mono-lessons-kotlin-spring-security-master) | Kotlin |
+| [mono-lessons-node-javascript-chrome-extension](https://github.com/MrParkerZ7/mono-lessons-node-javascript-chrome-extension) | JavaScript |
+| [mono-lessons-node-javascript-rabbitmq](https://github.com/MrParkerZ7/mono-lessons-node-javascript-rabbitmq) | JavaScript |
+| [mono-lessons-node-javascript-webpack](https://github.com/MrParkerZ7/mono-lessons-node-javascript-webpack) | JavaScript |
+| [mono-sample-java-kotlin-spring-jackson](https://github.com/MrParkerZ7/mono-sample-java-kotlin-spring-jackson) | Java |
 | [mono-terraform-infra-api-aws](https://github.com/MrParkerZ7/mono-terraform-infra-api-aws) | HCL |
+| [sample-docker-compose-node-strapi-postgres](https://github.com/MrParkerZ7/sample-docker-compose-node-strapi-postgres) | JavaScript |
+| [sample-docker-gitlab-ce](https://github.com/MrParkerZ7/sample-docker-gitlab-ce) | — |
+| [sample-docker-kotlin-spring-web-actuator](https://github.com/MrParkerZ7/sample-docker-kotlin-spring-web-actuator) | Kotlin |
+| [sample-docker-metabase-postgre-mongo](https://github.com/MrParkerZ7/sample-docker-metabase-postgre-mongo) | — |
+| [sample-java-spring-boot-connect-mssql](https://github.com/MrParkerZ7/sample-java-spring-boot-connect-mssql) | Java |
+| [sample-java-spring-sleuth-client](https://github.com/MrParkerZ7/sample-java-spring-sleuth-client) | Shell |
+| [sample-java-spring-sleuth-server](https://github.com/MrParkerZ7/sample-java-spring-sleuth-server) | Shell |
+| [sample-java-spring-web-jpa-mysql-flyway](https://github.com/MrParkerZ7/sample-java-spring-web-jpa-mysql-flyway) | Java |
 | [sample-mono-repository-kotlin-gradle-dsl](https://github.com/MrParkerZ7/sample-mono-repository-kotlin-gradle-dsl) | Kotlin |
 | [sample-mono-repository-kotlin-gradle-dsl-6.9-kts](https://github.com/MrParkerZ7/sample-mono-repository-kotlin-gradle-dsl-6.9-kts) | Kotlin |
 | [sample-mono-repository-typescript-lerna](https://github.com/MrParkerZ7/sample-mono-repository-typescript-lerna) | TypeScript |
-| [lesson-mono-repository-javascript-lerna](https://github.com/MrParkerZ7/lesson-mono-repository-javascript-lerna) | JavaScript |
-| [sample-node-typescript-chrome-extension](https://github.com/MrParkerZ7/sample-node-typescript-chrome-extension) | TypeScript |
-| [lesson-github-action-course-github-actions-the-complete-guide](https://github.com/MrParkerZ7/lesson-github-action-course-github-actions-the-complete-guide) | TypeScript |
-| [mono-lesson-dot-net-framework-first-start](https://github.com/MrParkerZ7/mono-lesson-dot-net-framework-first-start) | C# |
-| [mono-lesson-review-spring-java-17-21](https://github.com/MrParkerZ7/mono-lesson-review-spring-java-17-21) | Java |
-| [documentation](https://github.com/MrParkerZ7/documentation) | — |
-| [sample-docker-metabase-postgre-mongo](https://github.com/MrParkerZ7/sample-docker-metabase-postgre-mongo) | — |
-| [sample-python-robot-framework](https://github.com/MrParkerZ7/sample-python-robot-framework) | RobotFramework |
-| [demo-aws-lambda-function-kotlin-spring-cloud-mvn](https://github.com/MrParkerZ7/demo-aws-lambda-function-kotlin-spring-cloud-mvn) | Kotlin |
-| [demo-node-javascript-nested-promis](https://github.com/MrParkerZ7/demo-node-javascript-nested-promis) | JavaScript |
-| [demo-aws-sam-node-javascript-app](https://github.com/MrParkerZ7/demo-aws-sam-node-javascript-app) | JavaScript |
-| [demo_dart_flutter_app_begin_again](https://github.com/MrParkerZ7/demo_dart_flutter_app_begin_again) | Dart |
 | [sample-node-javascript-engine-on-kotlin](https://github.com/MrParkerZ7/sample-node-javascript-engine-on-kotlin) | Kotlin |
-| [demo-kotlin-spring-with-unit-test](https://github.com/MrParkerZ7/demo-kotlin-spring-with-unit-test) | Kotlin |
-| [sample-java-spring-boot-connect-mssql](https://github.com/MrParkerZ7/sample-java-spring-boot-connect-mssql) | Java |
-| [mono-lessons-gec-mission-node-javascript-and-java-spring](https://github.com/MrParkerZ7/mono-lessons-gec-mission-node-javascript-and-java-spring) | HTML |
-| [mono-lessons-dart-flutter-second-lesson](https://github.com/MrParkerZ7/mono-lessons-dart-flutter-second-lesson) | Dart |
-| [lesson-kotlin-2step](https://github.com/MrParkerZ7/lesson-kotlin-2step) | Java |
-| [lesson-java-21stepbase](https://github.com/MrParkerZ7/lesson-java-21stepbase) | Java |
-| [mono-lessons-node-javascript-chrome-extension](https://github.com/MrParkerZ7/mono-lessons-node-javascript-chrome-extension) | JavaScript |
-| [exprirenment-compile-node-javascript-docker-images](https://github.com/MrParkerZ7/exprirenment-compile-node-javascript-docker-images) | JavaScript |
-| [mono-lessons-node-javascript-webpack](https://github.com/MrParkerZ7/mono-lessons-node-javascript-webpack) | JavaScript |
-| [mono-lessons-node-javascript-rabbitmq](https://github.com/MrParkerZ7/mono-lessons-node-javascript-rabbitmq) | JavaScript |
-| [sample-node-typescript-oop-exception](https://github.com/MrParkerZ7/sample-node-typescript-oop-exception) | TypeScript |
-| [sample-docker-compose-node-strapi-postgres](https://github.com/MrParkerZ7/sample-docker-compose-node-strapi-postgres) | JavaScript |
-| [sample-node-typescript-write-file](https://github.com/MrParkerZ7/sample-node-typescript-write-file) | TypeScript |
-| [lesson-sass-html](https://github.com/MrParkerZ7/lesson-sass-html) | HTML |
-| [lesson-node-typescript](https://github.com/MrParkerZ7/lesson-node-typescript) | TypeScript |
-| [lesson-aws-terraform](https://github.com/MrParkerZ7/lesson-aws-terraform) | HCL |
-| [sample-docker-gitlab-ce](https://github.com/MrParkerZ7/sample-docker-gitlab-ce) | — |
-| [sample-node-typescript-decorator](https://github.com/MrParkerZ7/sample-node-typescript-decorator) | TypeScript |
 | [sample-node-next-typescript](https://github.com/MrParkerZ7/sample-node-next-typescript) | TypeScript |
-| [lesson-next-typescript](https://github.com/MrParkerZ7/lesson-next-typescript) | CSS |
-| [lesson-github-action](https://github.com/MrParkerZ7/lesson-github-action) | JavaScript |
-| [lesson_python_scrapy](https://github.com/MrParkerZ7/lesson_python_scrapy) | Python |
-| [mono-sample-java-kotlin-spring-jackson](https://github.com/MrParkerZ7/mono-sample-java-kotlin-spring-jackson) | Java |
-| [mono-lessons-java-spring-backend-service-full-system](https://github.com/MrParkerZ7/mono-lessons-java-spring-backend-service-full-system) | Shell |
-| [mono-lessons-java-spring-mongo-master](https://github.com/MrParkerZ7/mono-lessons-java-spring-mongo-master) | Java |
-| [mono-lessons-java-spring-cloud-eureka](https://github.com/MrParkerZ7/mono-lessons-java-spring-cloud-eureka) | Shell |
-| [lesson-java-spring-reactive-mongodb-2step](https://github.com/MrParkerZ7/lesson-java-spring-reactive-mongodb-2step) | Java |
-| [lesson-java-spring-mongodb-2step](https://github.com/MrParkerZ7/lesson-java-spring-mongodb-2step) | Java |
-| [mono-lessons-java-spring-application-testing-master](https://github.com/MrParkerZ7/mono-lessons-java-spring-application-testing-master) | HTML |
-| [mono-lessons-java-spring-security](https://github.com/MrParkerZ7/mono-lessons-java-spring-security) | Java |
-| [sample-java-spring-sleuth-server](https://github.com/MrParkerZ7/sample-java-spring-sleuth-server) | Shell |
-| [sample-java-spring-sleuth-client](https://github.com/MrParkerZ7/sample-java-spring-sleuth-client) | Shell |
-| [sample-java-spring-web-jpa-mysql-flyway](https://github.com/MrParkerZ7/sample-java-spring-web-jpa-mysql-flyway) | Java |
-| [lesson-first-java](https://github.com/MrParkerZ7/lesson-first-java) | Java |
-| [mono-lessons-kotlin-spring-mongo-master](https://github.com/MrParkerZ7/mono-lessons-kotlin-spring-mongo-master) | Shell |
-| [mono-lessons-kotlin-spring-eureka-master](https://github.com/MrParkerZ7/mono-lessons-kotlin-spring-eureka-master) | Shell |
-| [sample-docker-kotlin-spring-web-actuator](https://github.com/MrParkerZ7/sample-docker-kotlin-spring-web-actuator) | Kotlin |
-| [mono-lessons-kotlin-spring-security-master](https://github.com/MrParkerZ7/mono-lessons-kotlin-spring-security-master) | Kotlin |
-| [sharing_source_p_python](https://github.com/MrParkerZ7/sharing_source_p_python) | Python |
-| [demo-docker-nginx](https://github.com/MrParkerZ7/demo-docker-nginx) | HTML |
 | [sample-node-typescript](https://github.com/MrParkerZ7/sample-node-typescript) | TypeScript |
-| [mono-lessons-go](https://github.com/MrParkerZ7/mono-lessons-go) | Go |
-| [mono-lessons-dart-first-start](https://github.com/MrParkerZ7/mono-lessons-dart-first-start) | Dart |
-| [mono-lessons-dart-flutter-get-started](https://github.com/MrParkerZ7/mono-lessons-dart-flutter-get-started) | Dart |
+| [sample-node-typescript-chrome-extension](https://github.com/MrParkerZ7/sample-node-typescript-chrome-extension) | TypeScript |
+| [sample-node-typescript-decorator](https://github.com/MrParkerZ7/sample-node-typescript-decorator) | TypeScript |
+| [sample-node-typescript-oop-exception](https://github.com/MrParkerZ7/sample-node-typescript-oop-exception) | TypeScript |
+| [sample-node-typescript-write-file](https://github.com/MrParkerZ7/sample-node-typescript-write-file) | TypeScript |
+| [sample-python-robot-framework](https://github.com/MrParkerZ7/sample-python-robot-framework) | RobotFramework |
+| [sharing_source_p_python](https://github.com/MrParkerZ7/sharing_source_p_python) | Python |
 
 </details>
 
