@@ -227,9 +227,11 @@
   <img alt="Platforms" src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-565f89?style=flat-square" />
 </p>
 
+<a href="https://github.com/MrParkerZ7/installer-cycle-request/releases/latest"><img width="100%" alt="cycle-request — request editor" src="https://raw.githubusercontent.com/MrParkerZ7/installer-cycle-request/main/screenshots/request-editor.png" /></a>
+
 Postman-compatible format, environments & `{{variables}}`, pre-request / test scripts (`pm.*`), a collection runner with PDF reports, and 17 themes. No cloud, no lock-in — commit a collection to share it.
 
-⬇️ **[Download](https://github.com/MrParkerZ7/installer-cycle-request/releases/latest)** &nbsp;·&nbsp; 📂 [Source](https://github.com/MrParkerZ7/project-cycle-request)
+⬇️ **[Download](https://github.com/MrParkerZ7/installer-cycle-request/releases/latest)** &nbsp;·&nbsp; 📖 [Details](https://github.com/MrParkerZ7/installer-cycle-request)
 
 </td>
 <td valign="top" width="50%">
@@ -245,9 +247,11 @@ Postman-compatible format, environments & `{{variables}}`, pre-request / test sc
   <img alt="Platform" src="https://img.shields.io/badge/Windows%20x64-565f89?style=flat-square" />
 </p>
 
+<a href="https://github.com/MrParkerZ7/installer-auto-click-key/releases/latest"><img width="100%" alt="AutoKeyClick — main window" src="https://raw.githubusercontent.com/MrParkerZ7/installer-auto-click-key/main/docs/screenshot.png" /></a>
+
 Built with C# / WPF on .NET 8. Auto clicker (interval, fixed position, repeat / loop), auto keyboard, record & playback with timing, named profiles, and global start / stop hotkeys (`F6` / `F8`). Installer + portable builds, self-contained.
 
-⬇️ **[Download](https://github.com/MrParkerZ7/installer-auto-click-key/releases/latest)** &nbsp;·&nbsp; 📂 [Source](https://github.com/MrParkerZ7/project-auto-key-click)
+⬇️ **[Download](https://github.com/MrParkerZ7/installer-auto-click-key/releases/latest)** &nbsp;·&nbsp; 📖 [Details](https://github.com/MrParkerZ7/installer-auto-click-key)
 
 </td>
 </tr>
